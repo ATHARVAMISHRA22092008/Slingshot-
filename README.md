@@ -1,2 +1,2 @@
-# Slingshot-
-A slingshot game
+# SlingShot Stage1
+
